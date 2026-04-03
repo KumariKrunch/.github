@@ -1,88 +1,75 @@
-![KumariKrunch Logo](https://kumarikrunch.com/cdn/shop/files/logo.png?v=1)
+![KumariKrunch Engineering](https://kumarikrunch.com/cdn/shop/files/KK-Brown_Logo.svg?height=72&v=1761374917)
 
-# KumariKrunch™ - Authentic Kanyakumari Snacks
+# KumariKrunch Engineering & Digital Operations
 
-**Where Traditional Snacks meet Modern Flavours**
-
----
-
-## 🌴 About KumariKrunch
-
-KumariKrunch was created from a deep love for the timeless flavours of Kanyakumari. In our homes, snacks are more than food—they're memories. We bring this authentic experience to everyone who craves real South Indian snacks. 
-
-Our mission is simple: to bring the true taste of Kanyakumari to your doorstep, ensuring every batch is made with no shortcuts—just genuine flavor, crispiness, and tradition in every bite.
-
-## 🍌 Our Snack Collection
-
-### **The Classic Range**
-- **Classic Salt & Pepper Banana Chips** - The traditional Nagercoil favorite, perfectly seasoned.
-- **Sweet Banana Chips** - A touch of classic sweetness for the perfect balance.
-
-### **The Modern Flavors**
-- **Peri Peri Banana Chips** - A bold, spicy kick for the modern palate.
-- **Sweet Chilli Banana Chips** - The ultimate fusion of sweet and heat.
-- **Tangy Tomato Banana Chips** - Zesty, vibrant, and packed with flavor.
-
-### **Traditional Bites**
-- **Tangy Tomato Murukku** - Homemade crunch featuring a tangy twist on a classic recipe.
-
-### **Quality & Hygiene Standards**
-- **100% Natural** - Completely free from artificial preservatives, colors, and flavors.
-- **Freshness Guaranteed** - Small-batch preparation to ensure maximum crispiness.
-- **Premium Oils** - Fried to perfection using high-quality Palm Oil for a superior, clean crunch.
-
-## 🔮 What's Coming Next
-
-### **2026 Flavor Development Roadmap**
-- **Onion & Cream Nendran Chips** - Developing a savory, creamy powder coating for our traditional Nendran bananas.
-- **Schezwan Nendran Chips** - Bringing a bold, Indo-Chinese heat profile to our classic crunch.
-- **Expanded Traditional Line** - Scaling up our authentic Kanyakumari recipes to reach more households across India.
-
-## 💡 Why Choose KumariKrunch?
-
-- **Authentic Taste** - Genuine recipes straight from local households in Nagercoil.
-- **Hygienic Process** - Strict cleanliness standards maintained daily in our preparation facility.
-- **Fast Pan-India Delivery** - Reliable nationwide shipping right to your door.
-- **Secure Packaging** - Airtight sealing so your snacks arrive as fresh as the day they were fried.
-- **Bulk & Event Orders** - Scalable ordering for festivals, parties, and corporate gifting.
-
-## 🌐 Get Connected
-
-Ready to taste the real crunch? Experience the authentic flavours of Kanyakumari today.
-
-### **Contact Information**
-- **Website**: [www.kumarikrunch.com](https://kumarikrunch.com)
-- **Email**: kumarikrunch@gmail.com
-- **Phone / WhatsApp**: +91 98765 43210
-- **Address**: Kumari Krunch Foods, 2nd Floor, RM Towers, Main Road, Paranthal, Nagercoil, Kanyakumari District – 629802
-
-### **Stay Updated**
-Subscribe to our newsletter for new flavor alerts, limited stock drops, and exclusive offers.
-
-**[Subscribe for Updates](mailto:kumarikrunch@gmail.com?subject=Newsletter%20Subscription&body=Hi%20KumariKrunch%20Team,%0A%0AI%20would%20like%20to%20subscribe%20to%20your%20newsletter%20to%20stay%20updated%20on%20new%20flavors%20and%20offers.%0A%0AEmail:%20[Your%20Email]%0A%0AThank%20you!)**
+**Building the E-Commerce Engine for Authentic Kanyakumari Flavors**
 
 ---
 
-## 🛠️ Our Preparation Process
+## 💻 About Our Tech Org
 
-Our snacks are crafted focusing on tradition, reliability, and unparalleled quality:
-- Carefully sourced, fresh local ingredients
-- Small-batch, daily frying routines
-- 100% preservative-free seasoning
-- Secure, moisture-resistant packaging architecture
+Welcome to the KumariKrunch GitHub Organization. This space serves as the central hub for the engineering and design architecture powering the KumariKrunch e-commerce platform. We manage the end-to-end digital lifecycle—from the user interface that customers interact with to the backend services that handle inventory, order routing, and VPS infrastructure.
+
+Our engineering mission is to build a highly performant, scalable, and beautifully designed digital storefront that reflects the authenticity of our physical products.
+
+## 🚀 Core E-Commerce Architecture
+
+### **Frontend & User Experience**
+- **UI/UX Product Design** - Component-based design system focusing on conversion optimization and mobile-first accessibility.
+- **Dynamic Storefront** - High-speed, responsive frontend rendering for browsing traditional and modern snack collections.
+- **Customer Portal** - Secure authentication for order tracking, profile management, and repeat purchases.
+
+### **Backend & Order Management**
+- **Inventory Synchronization** - Real-time tracking of small-batch snack production to prevent overselling.
+- **Payment Processing Integration** - Secure, low-latency checkout flows with seamless UPI routing (Primary Merchant UPI: `jafialex@icici`).
+- **Automated Order Routing** - Streamlined data handoff from the digital cart to our physical fulfillment center in Nagercoil.
+
+### **Infrastructure & DevOps**
+- **VPS Deployment & Management** - Custom virtual private server configurations optimized for e-commerce traffic spikes.
+- **CI/CD Pipelines** - Automated testing and deployment protocols for continuous, zero-downtime updates.
+- **Database Architecture** - Secure, structured data storage for customer data, product catalogs, and transactional history.
+
+## 👥 The Team Structure
+
+Our digital infrastructure is built and maintained by a specialized, three-pillar founding team:
+- **Full-Stack & Systems Architecture:** Leading backend development, database management, and advanced VPS DevOps protocols.
+- **Full-Stack & Integrations:** Driving API integrations, frontend functionality, and supporting DevOps operations.
+- **Product & UI/UX:** Directing user research, visual design, and translating the brand's authentic Kanyakumari identity into the digital interface.
+
+## 🔮 Technical Roadmap (2026)
+
+### **Q1-Q2: Infrastructure Scaling**
+- **Automated Supply Chain Triggers** - Connecting our ingredient sourcing (e.g., dedicated Palm Oil and raw banana supply lines) to predictive inventory algorithms.
+- **Enhanced Analytics Dashboard** - Internal tools for tracking flavor performance (Peri Peri vs. Sweet Chilli) and geographic sales distribution.
+
+### **Q3-Q4: Feature Expansion**
+- **B2B Bulk Ordering Portal** - A dedicated, self-serve interface for festival, party, and corporate bulk orders.
+- **Automated Customer Retention Flows** - Trigger-based marketing integrations for newsletter subscribers and repeat buyers.
+
+## 🛠️ Technology Stack
+
+Our platform is engineered using modern tools to ensure reliability and speed:
+- **Frontend**: [Insert Framework, e.g., React/Next.js/Vue]
+- **Backend**: [Insert Framework, e.g., Node.js/Django/Laravel]
+- **Database**: [Insert Database, e.g., PostgreSQL/MongoDB]
+- **Infrastructure**: Custom VPS, Nginx, Docker
+- **Design Tools**: Figma, Adobe Creative Cloud
+
+## 📜 Operations & SLAs
+
+- **Deployment Schedule:** Continuous deployment for minor patches; scheduled maintenance windows for major database migrations.
+- **Holiday Schedule:** System maintenance and non-automated rollouts are strictly paused during mandatory company holidays, including Christmas, to ensure operational stability.
 
 ---
 
-## 📱 Connect With Us
+## 🌐 Internal Resources & Links
 
-| Platform | Link |
+| Resource | Link |
 |----------|------|
-| Website | [kumarikrunch.com](https://kumarikrunch.com) |
-| Email | kumarikrunch@gmail.com |
-| Social Media | Search **KumariKrunch** on Facebook, Instagram, YouTube, and Twitter |
+| Live Storefront | [kumarikrunch.com](https://kumarikrunch.com) |
+| System Status | [Insert Status Page Link] |
+| Design System | [Insert Figma Link] |
 
 ---
 
-*A story of tradition. A story of home. A story of Kanyakumari itself.*
-
-**© 2026 KumariKrunch™. All rights reserved.**
+*Engineering the taste of tradition.*
