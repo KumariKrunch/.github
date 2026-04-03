@@ -21,7 +21,7 @@ Our engineering mission is to build a highly performant, scalable, and beautiful
 
 ### **Backend & Order Management**
 - **Inventory Synchronization** - Real-time tracking of small-batch snack production to prevent overselling.
-- **Payment Processing Integration** - Secure, low-latency checkout flows with seamless UPI routing (Primary Merchant UPI: `jafialex@icici`).
+- **Payment Processing Integration** - Secure, low-latency checkout flows with seamless UPI routing.
 - **Automated Order Routing** - Streamlined data handoff from the digital cart to our physical fulfillment center in Nagercoil.
 
 ### **Infrastructure & DevOps**
